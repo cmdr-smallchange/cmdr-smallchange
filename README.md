@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-🔭 I’m currently working on my own projects and random tinkerings #
+🔭 I’m currently working on my own projects and random tinkerings
+
 🌱 I’m currently learning the basics of coding by creating an application to notify me of when stock tickers are trending on Reddit. 
 
 <!--
